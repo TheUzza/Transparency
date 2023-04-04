@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "D5iXtDxwqiy1wGIJ0OgfeLyd0U2l0zcpy5X0dXUulimeIKXdDCVeeyrOVPeBYKoT3ZN4bdYukZoZ1wB/rByPMw==",
+  "success": true,
+  "projectFilePath": "/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency.iOS/Transparency.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmadaloussi/.nuget/packages/mysqlconnector/2.2.5/mysqlconnector.2.2.5.nupkg.sha512",
+    "/Users/ahmadaloussi/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/ahmadaloussi/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "/Users/ahmadaloussi/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/ahmadaloussi/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ahmadaloussi/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/ahmadaloussi/.nuget/packages/xamarin.essentials/1.7.5/xamarin.essentials.1.7.5.nupkg.sha512",
+    "/Users/ahmadaloussi/.nuget/packages/xamarin.forms/5.0.0.2578/xamarin.forms.5.0.0.2578.nupkg.sha512",
+    "/Users/ahmadaloussi/.nuget/packages/zxing.net.mobile/2.4.1/zxing.net.mobile.2.4.1.nupkg.sha512",
+    "/Users/ahmadaloussi/.nuget/packages/zxing.net.mobile.forms/2.4.1/zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

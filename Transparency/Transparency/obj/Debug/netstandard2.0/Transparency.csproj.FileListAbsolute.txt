@@ -1,0 +1,14 @@
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/Transparency.csproj.AssemblyReference.cache
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/Transparency.AssemblyInfoInputs.cache
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/Transparency.AssemblyInfo.cs
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/Transparency.csproj.CoreCompileInputs.cache
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/bin/Debug/netstandard2.0/Transparency.deps.json
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/bin/Debug/netstandard2.0/Transparency.dll
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/bin/Debug/netstandard2.0/ref/Transparency.dll
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/bin/Debug/netstandard2.0/Transparency.pdb
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/Transparency.dll
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/ref/Transparency.dll
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/Transparency.pdb

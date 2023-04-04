@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency.Android/Transparency.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency.Android/Transparency.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency.Android/Transparency.Android.csproj",
+        "projectName": "Transparency.Android",
+        "projectPath": "/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency.Android/Transparency.Android.csproj",
+        "packagesPath": "/Users/ahmadaloussi/.nuget/packages/",
+        "outputPath": "/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/ahmadaloussi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid13.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid13.0": {
+            "projectReferences": {
+              "/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/Transparency.csproj": {
+                "projectPath": "/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/Transparency.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid13.0": {
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.5, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2578, )"
+            },
+            "ZXing.Net.Mobile": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "ZXing.Net.Mobile.Forms": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/Transparency.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/Transparency.csproj",
+        "projectName": "Transparency",
+        "projectPath": "/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/Transparency.csproj",
+        "packagesPath": "/Users/ahmadaloussi/.nuget/packages/",
+        "outputPath": "/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ahmadaloussi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.5, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2578, )"
+            },
+            "ZXing.Net.Mobile": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "ZXing.Net.Mobile.Forms": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/Users/ahmadaloussi/Library/Caches/VisualStudio/17.0/MSBuild/15915_3/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
