@@ -1,39 +1,49 @@
-﻿<Properties StartupConfiguration="{46223C80-16AD-4D04-9873-8CE25F872866}|Default" GitUserInfo="UsingMD">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{46223C80-16AD-4D04-9873-8CE25F872866}|Default">
   <MonoDevelop.Ide.ItemProperties.Transparency.Android PreferredExecutionTarget="Android.pixel_5_-_api_33" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
-  <MonoDevelop.Ide.ItemProperties.Transparency.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Transparency/Transparency/MySqlDataBase.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Transparency/Transparency/MysqlHandler.cs">
     <Files>
-      <File FileName="../../../.nuget/packages/xamarin.essentials/1.7.5/readme.txt" />
-      <File FileName="Transparency/Transparency/App.xaml.cs" Line="15" Column="1" />
-      <File FileName="../../../Library/Caches/VisualStudio/17.0/Symbols/raw.githubusercontent.com/mono/mono/a96bde9730e4c2244536ce5f4250e5e4f4e6780a/mcs/class/referencesource/mscorlib/system/runtime/exceptionservices/exceptionservicescommon.cs" Line="157" Column="1" />
-      <File FileName="Transparency/Transparency/MySqlDataBase.cs" Line="10" Column="57" />
-      <File FileName="Transparency/Transparency/MainPage.xaml.cs" Line="34" Column="49" />
+      <File FileName="../../../Library/Caches/VisualStudio/17.0/Symbols/raw.githubusercontent.com/mono/mono/a96bde9730e4c2244536ce5f4250e5e4f4e6780a/mcs/class/referencesource/mscorlib/system/runtime/exceptionservices/exceptionservicescommon.cs" />
+      <File FileName="Transparency/Transparency/MainPage.xaml" />
+      <File FileName="Transparency/Transparency/App.xaml.cs" />
+      <File FileName="Transparency/Transparency/App.xaml" />
+      <File FileName="Transparency/Transparency/AboutUsPage.xaml" />
+      <File FileName="Transparency/Transparency/AboutUsPage.xaml.cs" />
+      <File FileName="Transparency/Transparency/SettingsPage.xaml" Line="10" Column="1" />
+      <File FileName="Transparency/Transparency/SettingsPage.xaml.cs" />
+      <File FileName="Transparency/Transparency/AppShell.xaml" />
+      <File FileName="Transparency/Transparency/AppShell.xaml.cs" />
+      <File FileName="Transparency/Transparency/MainPage.xaml.cs" />
+      <File FileName="Transparency/Transparency/MysqlHandler.cs" Line="1" Column="1" />
+      <File FileName="Transparency/Transparency/AssemblyInfo.cs" />
+      <File FileName="Transparency/Transparency/MySqlDataBase.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Transparency" expanded="True">
             <Node name="Transparency" expanded="True">
+              <Node name="AboutUsPage.xaml" expanded="True" />
               <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
+              <Node name="SettingsPage.xaml" expanded="True" />
             </Node>
             <Node name="Transparency.Android" expanded="True" />
-            <Node name="Transparency.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <Debugger.DebugSourceFolders>
     <String>/Users/ahmadaloussi/Library/Caches/VisualStudio/17.0/Symbols/raw.githubusercontent.com/mono/mono/a96bde9730e4c2244536ce5f4250e5e4f4e6780a</String>
   </Debugger.DebugSourceFolders>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Transparency.iOS FirstBuild="True" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

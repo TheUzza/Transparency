@@ -12,3 +12,6 @@
 /Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/Transparency.dll
 /Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/ref/Transparency.dll
 /Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/Transparency.pdb
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/AboutUsPage.xaml.g.cs
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/ahmadaloussi/Documents/Projects/Transparency/Transparency/Transparency/obj/Debug/netstandard2.0/SettingsPage.xaml.g.cs

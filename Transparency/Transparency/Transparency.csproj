@@ -22,4 +22,10 @@
     <None Remove="ZXing.Net.Mobile.Forms" />
     <None Remove="MySqlConnector" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="QrScanner.xaml.cs">
+      <DependentUpon>QrScanner.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
 </Project>

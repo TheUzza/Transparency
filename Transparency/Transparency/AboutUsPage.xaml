@@ -1,0 +1,9 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Transparency.AboutUsPage"
+             Title="About Us">
+    <StackLayout>
+        <!-- Add your About Us content here -->
+        <Label Text="About Us Content" />
+    </StackLayout>
+</ContentPage>

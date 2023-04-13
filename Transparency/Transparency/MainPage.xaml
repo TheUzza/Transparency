@@ -1,11 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Tranparency.MainPage">
-             
+             x:Class="Transparency.MainPage"
+             BackgroundColor="{DynamicResource BackgroundColor}">
     <StackLayout>
+        <Label Text="Welcome to Transparency App"
+               FontSize="Large"
+               TextColor="{DynamicResource TextColor}"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
         <Button Text="Scan QR Code"
-                Clicked="ScanButton_Clicked" />
+                Clicked="ScanButton_Clicked"
+                BackgroundColor="Accent"
+                TextColor="{DynamicResource TextColor}"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand" />
     </StackLayout>
 </ContentPage>
-

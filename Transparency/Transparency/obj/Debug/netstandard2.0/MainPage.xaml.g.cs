@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Transparency.MainPage.xaml", "MainPage.xaml", typeof(global::Tranparency.MainPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Transparency.MainPage.xaml", "MainPage.xaml", typeof(global::Transparency.MainPage))]
 
-namespace Tranparency {
+namespace Transparency {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("MainPage.xaml")]
